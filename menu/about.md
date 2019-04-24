@@ -5,7 +5,7 @@ title: Giới thiệu
 
 Quĩ học bổng Đồi Đồng Long được thành lập với mục đích hỗ trợ mỗi năm 10 suất học bổng cho học sinh học tại trường THPT BL.
 
-![](/assets/img/bome.jpeg)
+![](//images.weserv.nl/?url=https://doidonglong.com/assets/img/bome.jpeg&mask=circle)
 
 Ông Nguyễn Văn Miệt (1938-2016) và vợ là bà Phạm Thị Hoan hiện là người xét duyệt và trao học bổng. Quỹ điều hành bởi các con (xem trang liên hệ).
 
