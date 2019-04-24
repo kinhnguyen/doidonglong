@@ -1,0 +1,21 @@
+{% if post.layout != post %}
+  {% assign words = post.content | strip_html | number_of_words %}
+  {% if words < 180 %}
+    đọc ít hơn 1 phút
+  {% elsif words < 360 %}
+    đọc trong 1 phút
+  {% else %}
+    {{ words | divided_by:180 }} phút 
+  {% endif %}
+{% endif %}
+
+{% if post.layout == post %}
+  {% assign words = content | number_of_words %}
+  {% if words < 180 %}
+    đọc ít hơn 1 phút
+  {% elsif words < 360 %}
+    đọc trong 1 phút
+  {% else %}
+    {{ words | divided_by:180 }} phút đọc
+  {% endif %}
+{% endif %}
